@@ -1,6 +1,6 @@
 
 public class HelloMessage {
 	public void getMessage() {
-		System.out.println("ciao");
+		System.out.println("ciao come va");
 	}
 }
